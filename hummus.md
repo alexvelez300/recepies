@@ -4,4 +4,4 @@
 * lemon
 * olive oil
 * salt
-* garlic for extraa flaour
+* three garlic for extraa flaour
