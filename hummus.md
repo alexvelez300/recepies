@@ -1,3 +1,4 @@
+
 # Hummus
 ## Ingredients
 * chickpeas
@@ -5,3 +6,5 @@
 * olive oil
 * salt
 * three garlic for extraa flaour
+* teaspoon of paprika
+
